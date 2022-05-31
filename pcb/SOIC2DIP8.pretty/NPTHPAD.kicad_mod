@@ -1,0 +1,14 @@
+(footprint "NPTHPAD" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 61B09AEE)
+  (attr through_hole)
+  (fp_text reference "REF**" (at 0 1.5) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp e5198646-31a5-4978-9614-8710c48e9bc2)
+  )
+  (fp_text value "NPTHPAD" (at 0 -1.5) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 051995fd-5db4-4869-8ba3-66d8ffd70791)
+  )
+  (pad "" np_thru_hole circle (at 0 0) (size 1.8 1.8) (drill 0.7) (layers "B.Cu" "B.Mask") (tstamp 8f0bd089-4851-4839-8315-562494583463))
+)

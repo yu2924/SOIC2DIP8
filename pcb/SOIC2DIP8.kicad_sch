@@ -1,0 +1,20 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 1e1efda7-a9ab-4a81-94cf-281944bdde2f)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (text "This schematic is intentionally left empty.\nIgnore it."
+    (at 101.6 101.6 0)
+    (effects (font (size 2.54 2.54) (thickness 0.254) bold) (justify left bottom))
+    (uuid a42f3b9e-1c8e-424c-a1ad-2437ba15108c)
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
